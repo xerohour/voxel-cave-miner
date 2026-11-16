@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "luckiest-guy";
+  src: url("assets/font1.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 100%;
+  font-style: normal;
+  unicode-range: U+20-7E,U+A0-FF,U+131,U+152-153,U+2C6,U+2DA,U+2DC,U+2013-2014,U+2018-201A,U+201C-201E,U+2022,U+2026,U+2039-203A,U+2044,U+20AC,U+2122,U+2212,U+FFFF;
+  font-display: swap;
+}
+@font-face {
+  font-family: "luckiest-guy";
+  src: url("assets/font2.woff2") format("woff2");
+  font-weight: 400;
+  font-stretch: 100%;
+  font-style: normal;
+  unicode-range: U+20,U+A0,U+100-130,U+132-151,U+154-17E,U+1FC-1FF,U+237,U+2C7,U+2DD,U+1E80-1E85,U+1EF2-1EF3,U+2020,U+FFFF;
+  font-display: swap;
+}
